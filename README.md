@@ -1,3 +1,5 @@
+Ссылка на репозиторий: https://github.com/Dmitry2040/web-larek-frontend.git
+
 # Проектная работа "Веб-ларек"
 
 Стек: HTML, SCSS, TS, Webpack
